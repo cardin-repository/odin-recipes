@@ -1,0 +1,50 @@
+* {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(248, 192, 123);
+  padding: 20px;
+  margin: 50px;
+  font-size: 3em;
+  border-radius: 5px;
+}
+
+#listContainer {
+  text-align: center;
+}
+
+.mainRecipes {
+  display: inline;
+  padding: 25px 50px;
+  margin: 10px;
+  border-style: solid;
+  border-radius: 8px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+a {
+  color: #5a5a5a;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #5a5a5a;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: rgb(210, 105, 30);
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+}
